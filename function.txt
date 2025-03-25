@@ -1,0 +1,12 @@
+Game function:
+1. flip_deck
+2. find_card
+3. proceed_movement
+4. auto_move
+5. move_to_piles
+6. save_to_cache
+7. undo_move
+8. restart_game
+9. player_input
+
+GUI function
